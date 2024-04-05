@@ -1,0 +1,15 @@
+{
+  "name": "encode_decode_strings",
+  "version": "1.0.0",
+  "description": "",
+  "main": "encoude_decode_strings.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "crypto": "^1.0.1"
+  }
+}
