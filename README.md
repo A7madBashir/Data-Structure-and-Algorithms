@@ -7,4 +7,4 @@
 
 
 #### hope you find this helpful as i will
-#### follow me [LinkedIn Profile &#x1F468;&#x200D;&#x1F393;](www.linkedin.com/in/a7mad-bashir)
+#### follow me [LinkedIn Profile &#x1F468;&#x200D;&#x1F393;](https://www.linkedin.com/in/a7mad-bashir)
